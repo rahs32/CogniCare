@@ -1,0 +1,6 @@
+{
+  "name": "CogniCare",
+  "description": "An AI-powered assistive application to support communication, interoception, sensory awareness, and routine management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
