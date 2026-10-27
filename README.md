@@ -1,4 +1,5 @@
 # CogniCare
+Empowering People With Autism
 
 **AI-powered assistive Android app concept for autistic individuals**  
 Team: **AIRA** | Theme: **Swasth & Samavesh Bharat**
