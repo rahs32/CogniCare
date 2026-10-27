@@ -1,0 +1,8 @@
+{
+  "notice": "Fictional demonstration data only; not a real patient record.",
+  "routine": [
+    {"title": "Breakfast", "time": "08:30"},
+    {"title": "Study", "time": "09:00"},
+    {"title": "Sensory break", "time": "10:30"}
+  ]
+}
